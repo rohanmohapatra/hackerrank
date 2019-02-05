@@ -1,3 +1,10 @@
+/*
+for each color check the count of that color and make all of it zero
+then matching will be color/2 ( floor)
+also check of the color you're counting is not zero yet
+*/
+
+
 #include <bits/stdc++.h>
 
 using namespace std;
